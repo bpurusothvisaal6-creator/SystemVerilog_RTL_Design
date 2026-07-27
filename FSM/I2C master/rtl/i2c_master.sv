@@ -310,4 +310,6 @@ module i2c_master #(
             endcase
         end
     end
+endmodule
+
 
